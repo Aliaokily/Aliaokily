@@ -18,6 +18,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+   ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=OOP)
+   ![LARAVEL](https://img.shields.io/badge/-LARAVEL-333333?style=flat&logo=LARAVEL)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -27,7 +30,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaokily&theme=buefy&layout=compact" />
 </a>
 
 <br/>
