@@ -18,9 +18,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-   ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=OOP)
-   ![LARAVEL](https://img.shields.io/badge/-LARAVEL-333333?style=flat&logo=LARAVEL)
+   ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+   ![OOP](https://img.shields.io/badge/-oop-333333?style=flat&logo=oop)
+   ![LARAVEL](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -29,7 +29,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Aliaokily">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaokily&theme=buefy&layout=compact" />
 </a>
 
