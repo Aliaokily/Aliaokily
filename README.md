@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; I'm currently working full-time on web development technologies .
 - 🎓 &nbsp; learning everything about Frontend and Backend technologies.
-- 💼 &nbsp; open source technologies, and diversity in tech.
 - 🌱 &nbsp; It helps me develop a very good technological mindset.
   
 
@@ -24,7 +23,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
